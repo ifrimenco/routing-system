@@ -1,5 +1,4 @@
 *.vrt
-*.py
 notebooks/cache/*
 notebooks/data/*
 notebooks/logs/*
